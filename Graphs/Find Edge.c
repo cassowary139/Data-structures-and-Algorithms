@@ -1,4 +1,4 @@
-/**Consider a undirected graph with vertices numbered 0 to N, where N is entered by the user. Every vertex stores an integer,
+/**Consider an undirected graph with vertices numbered 0 to N, where N is entered by the user. Every vertex stores an integer,
  which is also supplied by the user. A vertex i is connected to the vertices i-2, i+1, i+2, i+5 and i+10 (if the indices exist).
  Take two indices from the user and find if an edge exists between the two indices.**/
 
